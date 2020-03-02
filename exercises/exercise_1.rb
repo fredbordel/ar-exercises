@@ -3,9 +3,6 @@ require_relative '../setup'
 puts "Exercise 1"
 puts "----------"
 
-# Your code goes below here ...
-
-
 store1 = Store.new
 store1.id = 1
 store1.name = "Burnaby"
